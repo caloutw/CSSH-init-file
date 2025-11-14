@@ -10,7 +10,7 @@ CSSH初始化技術文檔支持
 - MacOS, Linux
   - Terminal
 - iPad
-  - [](https://apps.apple.com/tw/app/termius-modern-ssh-client/id549039908)
+  - [termius](https://apps.apple.com/tw/app/termius-modern-ssh-client/id549039908)
 
 - 全平台
   - [Visual Studio Code](https://code.visualstudio.com/) ([Cursor](https://cursor.com/zh-Hant), [VSCodeium](https://vscodium.com/) 等)
