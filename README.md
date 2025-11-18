@@ -87,5 +87,11 @@ code-server
 然後前往<br>
 dev.\<yourname\>.calou.cc<br>
 
+# 一些小知識
+環境重啟指令
+```shell
+sudo kill 1
+```
+
 # 最後
 記住，任何code-server的東西都要創建新的tmux實例，一個項目一個，否則你會打結的。
